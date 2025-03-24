@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: 916042bd17553f94297d5bc938b1fee1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7679497527688815099
+    second: __gold_coin_fly_no_up_down_movement_0
+  - first:
+      213: -4760217029678612605
+    second: __gold_coin_fly_no_up_down_movement_1
+  - first:
+      213: -3709138709129192200
+    second: __gold_coin_fly_no_up_down_movement_2
+  - first:
+      213: 7020597500639292374
+    second: __gold_coin_fly_no_up_down_movement_3
+  - first:
+      213: -4728613280472400437
+    second: __gold_coin_fly_no_up_down_movement_4
+  - first:
+      213: 1935097243396177259
+    second: __gold_coin_fly_no_up_down_movement_5
+  - first:
+      213: -6852478365412877327
+    second: __gold_coin_fly_no_up_down_movement_6
+  - first:
+      213: 5746476734891323254
+    second: __gold_coin_fly_no_up_down_movement_7
+  - first:
+      213: -4152048875298772595
+    second: __gold_coin_fly_no_up_down_movement_8
+  - first:
+      213: 3363861621967285389
+    second: __gold_coin_fly_no_up_down_movement_9
+  - first:
+      213: -700972156861485677
+    second: __gold_coin_fly_no_up_down_movement_10
+  - first:
+      213: -5557821732204532057
+    second: __gold_coin_fly_no_up_down_movement_11
+  - first:
+      213: 4741540085399548153
+    second: __gold_coin_fly_no_up_down_movement_12
+  - first:
+      213: 2336609549342390714
+    second: __gold_coin_fly_no_up_down_movement_13
+  - first:
+      213: 950384163820943562
+    second: __gold_coin_fly_no_up_down_movement_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: __gold_coin_fly_no_up_down_movement_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1089
+        width: 225
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e1e90bfa1fc6590800000000000000
+      internalID: -7679497527688815099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __gold_coin_fly_no_up_down_movement_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1089
+        width: 166
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fbd3c05df40fdb0800000000000000
+      internalID: -4760217029678612605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __gold_coin_fly_no_up_down_movement_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1089
+        width: 168
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc14b3fefd768cc0800000000000000
+      internalID: -3709138709129192200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __gold_coin_fly_no_up_down_movement_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 835
+        width: 217
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dba998ea3c2e6160800000000000000
+      internalID: 7020597500639292374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __gold_coin_fly_no_up_down_movement_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 835
+        width: 245
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd7f315647906eb0800000000000000
+      internalID: -4728613280472400437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __gold_coin_fly_no_up_down_movement_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 835
+        width: 252
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d7776b0b8dada10800000000000000
+      internalID: 1935097243396177259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __gold_coin_fly_no_up_down_movement_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 581
+        width: 239
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb148e8b3b17e0a0800000000000000
+      internalID: -6852478365412877327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __gold_coin_fly_no_up_down_movement_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 562
+        width: 208
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f6e3de4269fbf40800000000000000
+      internalID: 5746476734891323254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __gold_coin_fly_no_up_down_movement_8
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 536
+        width: 182
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89a1c1eb85f066c0800000000000000
+      internalID: -4152048875298772595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __gold_coin_fly_no_up_down_movement_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 260
+        width: 165
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cedea9256deae20800000000000000
+      internalID: 3363861621967285389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __gold_coin_fly_no_up_down_movement_10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 287
+        width: 214
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39de4d88985a546f0800000000000000
+      internalID: -700972156861485677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __gold_coin_fly_no_up_down_movement_11
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 315
+        width: 250
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aea007c496aed2b0800000000000000
+      internalID: -5557821732204532057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __gold_coin_fly_no_up_down_movement_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 73
+        width: 272
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0f38ef5955dc140800000000000000
+      internalID: 4741540085399548153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __gold_coin_fly_no_up_down_movement_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 73
+        width: 277
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9b657510e4d6020800000000000000
+      internalID: 2336609549342390714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __gold_coin_fly_no_up_down_movement_14
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 73
+        width: 262
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac834b49c51703d00800000000000000
+      internalID: 950384163820943562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

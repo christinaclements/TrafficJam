@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: dcf86e538baef5246a469b9874df4e3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3758233787552035500
+    second: __silver_coin_fly_no_up_down_movement_0
+  - first:
+      213: -7213456827440004788
+    second: __silver_coin_fly_no_up_down_movement_1
+  - first:
+      213: -5138464557360017403
+    second: __silver_coin_fly_no_up_down_movement_2
+  - first:
+      213: 2583285290820406010
+    second: __silver_coin_fly_no_up_down_movement_3
+  - first:
+      213: 3476589199742448924
+    second: __silver_coin_fly_no_up_down_movement_4
+  - first:
+      213: -6194348850472143178
+    second: __silver_coin_fly_no_up_down_movement_5
+  - first:
+      213: -1648700181269813711
+    second: __silver_coin_fly_no_up_down_movement_6
+  - first:
+      213: 3688236327214037919
+    second: __silver_coin_fly_no_up_down_movement_7
+  - first:
+      213: 6692431148431905991
+    second: __silver_coin_fly_no_up_down_movement_8
+  - first:
+      213: 6510536162403801552
+    second: __silver_coin_fly_no_up_down_movement_9
+  - first:
+      213: 6630648802074120234
+    second: __silver_coin_fly_no_up_down_movement_10
+  - first:
+      213: 504431161236331501
+    second: __silver_coin_fly_no_up_down_movement_11
+  - first:
+      213: -8548187287475449481
+    second: __silver_coin_fly_no_up_down_movement_12
+  - first:
+      213: -3366643087139476441
+    second: __silver_coin_fly_no_up_down_movement_13
+  - first:
+      213: 8797505504570846687
+    second: __silver_coin_fly_no_up_down_movement_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: __silver_coin_fly_no_up_down_movement_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1089
+        width: 225
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2f8e1c7bde72430800000000000000
+      internalID: 3758233787552035500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __silver_coin_fly_no_up_down_movement_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1089
+        width: 166
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4182d5eb37a4eb90800000000000000
+      internalID: -7213456827440004788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __silver_coin_fly_no_up_down_movement_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1089
+        width: 168
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5001f97b5b180b8b0800000000000000
+      internalID: -5138464557360017403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __silver_coin_fly_no_up_down_movement_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 835
+        width: 217
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa87d0094ca9d320800000000000000
+      internalID: 2583285290820406010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __silver_coin_fly_no_up_down_movement_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 835
+        width: 245
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15bb9815735f3030800000000000000
+      internalID: 3476589199742448924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __silver_coin_fly_no_up_down_movement_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 835
+        width: 252
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b632c02a80490aa0800000000000000
+      internalID: -6194348850472143178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __silver_coin_fly_no_up_down_movement_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 581
+        width: 239
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1366a4a9be3ae19e0800000000000000
+      internalID: -1648700181269813711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __silver_coin_fly_no_up_down_movement_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 562
+        width: 208
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bb843066f3f2330800000000000000
+      internalID: 3688236327214037919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __silver_coin_fly_no_up_down_movement_8
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 536
+        width: 182
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c41b06ebaa40ec50800000000000000
+      internalID: 6692431148431905991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __silver_coin_fly_no_up_down_movement_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 260
+        width: 165
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9d96935221a5a50800000000000000
+      internalID: 6510536162403801552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __silver_coin_fly_no_up_down_movement_10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 287
+        width: 214
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a205ffd64fbc40c50800000000000000
+      internalID: 6630648802074120234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __silver_coin_fly_no_up_down_movement_11
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 315
+        width: 250
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb1123f779100700800000000000000
+      internalID: 504431161236331501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __silver_coin_fly_no_up_down_movement_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 73
+        width: 272
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7711488c3fcbe5980800000000000000
+      internalID: -8548187287475449481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __silver_coin_fly_no_up_down_movement_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 73
+        width: 277
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ce68113f74741d0800000000000000
+      internalID: -3366643087139476441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __silver_coin_fly_no_up_down_movement_14
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 73
+        width: 262
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd2d7d25a4071a70800000000000000
+      internalID: 8797505504570846687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

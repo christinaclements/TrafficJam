@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: d06898d74cfb0874cbfe68ff50775798
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4363023561467389743
+    second: __bronze_coin_fly_up_down_movement_0
+  - first:
+      213: -6158009570561836095
+    second: __bronze_coin_fly_up_down_movement_1
+  - first:
+      213: 7048463702147792312
+    second: __bronze_coin_fly_up_down_movement_2
+  - first:
+      213: 6539982336658667495
+    second: __bronze_coin_fly_up_down_movement_3
+  - first:
+      213: 7387994481045999824
+    second: __bronze_coin_fly_up_down_movement_4
+  - first:
+      213: -7871872812068698928
+    second: __bronze_coin_fly_up_down_movement_5
+  - first:
+      213: 5298443007122801468
+    second: __bronze_coin_fly_up_down_movement_6
+  - first:
+      213: 4925380149499269380
+    second: __bronze_coin_fly_up_down_movement_7
+  - first:
+      213: 2260526448466325771
+    second: __bronze_coin_fly_up_down_movement_8
+  - first:
+      213: 1832442673624583084
+    second: __bronze_coin_fly_up_down_movement_9
+  - first:
+      213: 6864952745405069327
+    second: __bronze_coin_fly_up_down_movement_10
+  - first:
+      213: -3523111518294949309
+    second: __bronze_coin_fly_up_down_movement_11
+  - first:
+      213: -2841462634010783205
+    second: __bronze_coin_fly_up_down_movement_12
+  - first:
+      213: 3532182998180799391
+    second: __bronze_coin_fly_up_down_movement_13
+  - first:
+      213: -5670431023498344796
+    second: __bronze_coin_fly_up_down_movement_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: __bronze_coin_fly_up_down_movement_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1090
+        width: 225
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d89318ef2d6373c0800000000000000
+      internalID: -4363023561467389743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __bronze_coin_fly_up_down_movement_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1090
+        width: 166
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbb43f0cea5a8aa0800000000000000
+      internalID: -6158009570561836095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __bronze_coin_fly_up_down_movement_2
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1094
+        width: 169
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdf0ca846c21d160800000000000000
+      internalID: 7048463702147792312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __bronze_coin_fly_up_down_movement_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 846
+        width: 217
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e77edde84fa2ca50800000000000000
+      internalID: 6539982336658667495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __bronze_coin_fly_up_down_movement_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 853
+        width: 246
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d01b4556dd678660800000000000000
+      internalID: 7387994481045999824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __bronze_coin_fly_up_down_movement_5
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 859
+        width: 252
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d40797626d71c290800000000000000
+      internalID: -7871872812068698928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __bronze_coin_fly_up_down_movement_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 608
+        width: 239
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c330536b7d9d78940800000000000000
+      internalID: 5298443007122801468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __bronze_coin_fly_up_down_movement_7
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 595
+        width: 208
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4011aa276277a5440800000000000000
+      internalID: 4925380149499269380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __bronze_coin_fly_up_down_movement_8
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 570
+        width: 182
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01f53ef3d00f5f10800000000000000
+      internalID: 2260526448466325771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __bronze_coin_fly_up_down_movement_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 289
+        width: 165
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab09a827e42e6910800000000000000
+      internalID: 1832442673624583084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __bronze_coin_fly_up_down_movement_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 311
+        width: 214
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0836bd5626354f50800000000000000
+      internalID: 6864952745405069327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __bronze_coin_fly_up_down_movement_11
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 334
+        width: 251
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34241f78db46b1fc0800000000000000
+      internalID: -3523111518294949309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __bronze_coin_fly_up_down_movement_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 91
+        width: 272
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12dd310ac81198d0800000000000000
+      internalID: -2841462634010783205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __bronze_coin_fly_up_down_movement_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 86
+        width: 277
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93ad38f8b5d40130800000000000000
+      internalID: 3532182998180799391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __bronze_coin_fly_up_down_movement_14
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 81
+        width: 263
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6c60107059e41b0800000000000000
+      internalID: -5670431023498344796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

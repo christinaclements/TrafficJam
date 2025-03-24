@@ -535,7 +535,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      city_cars_2_0: -6316709148087194105
+      city_cars_2_1: 133757287518405204
+      city_cars_2_10: -7256327762255844232
+      city_cars_2_11: -408475885012780547
+      city_cars_2_12: 5304824845239384432
+      city_cars_2_13: -2677513723184675658
+      city_cars_2_14: 5273581495446900545
+      city_cars_2_15: -2212806896522858925
+      city_cars_2_2: 8380142015774335898
+      city_cars_2_3: 7492184779948492185
+      city_cars_2_4: -5432538070729745067
+      city_cars_2_5: -8097384742614038891
+      city_cars_2_6: -675983043882726713
+      city_cars_2_7: 5350712908856896602
+      city_cars_2_8: 6538207976303875860
+      city_cars_2_9: 323442392485975985
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
