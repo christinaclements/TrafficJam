@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      farground_cloud_2_0: 8931617890245870501
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

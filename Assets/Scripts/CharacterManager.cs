@@ -2,25 +2,20 @@ using System.Net.NetworkInformation;
 using TMPro;
 using UnityEngine;
 
-public class PlanesDB : MonoBehaviour
-{
+public class PlanesDB : MonoBehaviour{
     public Planes planesDB;
 
     public static int selection = 0;
     public SpriteRenderer sprite;
     
-    private void Start()
-    {
+    private void Start(){
         updateCharacter();
     }
-    public void updateCharacter()
-    {
+    public void updateCharacter(){
         Plane current = planesDB.getPlane(selection);
-        sprite.sprite = current.prefab.GetComponent<SpriteRenderer>().sprite;
-        
+        sprite.sprite = current.prefab.GetComponentInChildren<SpriteRenderer>().sprite;
     }
-    public void next()
-    {
+    public void next(){
         int numberPins = planesDB.count();
         if (selection < numberPins - 1)
         {

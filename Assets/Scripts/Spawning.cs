@@ -4,6 +4,7 @@ public class Spawning : MonoBehaviour{
 
     public GameObject missle;
     public GameObject player;
+    public Transform parentObject;
     public float maxX;
     public float maxY;
     public float minX;
@@ -13,7 +14,8 @@ public class Spawning : MonoBehaviour{
     public Planes planesDB;
 
     private void Start(){
-        player = Instantiate(planesDB.getPlane(PlanesDB.selection).prefab, new Vector3(0.0f, 0.0f, 0.0f), Quaternion.identity);
+        parentObject = transform.parent;
+        player = Instantiate(planesDB.getPlane(PlanesDB.selection).prefab, new Vector3(0.0f, 0.0f, 0.0f), Quaternion.identity, parentObject);
     }
 
 
